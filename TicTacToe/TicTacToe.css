@@ -9,10 +9,10 @@ body {
 }
 
 #gameName {
-  font-size: 50px;
+  font-size: 40px;
   color: rgba(172, 255, 47, 0.6);
-  padding-block: 20px;
-  margin-top: 20px;
+  padding-block: 15px;
+  margin-top: 5px;
 }
 
 .container {
@@ -21,6 +21,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  margin: 15px;
 }
 
 .game {
@@ -60,7 +62,7 @@ body {
 
   background-color: #55828b86;
   color: rgba(172, 255, 47, 0.6);
-  font-size: 20px;
+  font-size: 25px;
 
   margin-top: 20px;
 }
